@@ -1,3 +1,12 @@
 header, footer {
     padding: 10px;
 }
+
+.doctor-list {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction:row;
+    justify-content: left;
+    gap: 25px;
+    
+}
